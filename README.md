@@ -1,6 +1,10 @@
 # GameLauncher
 You can use this App to launch Steam games or custom games !
-
+Im planning to make every week new updates on this app
 # Functions
 Has a Console Mode and a Gui Mode
 It auto detects installed steam games
+
+# Created
+This was created by using python
+And the modules customtkinter, configparser, winreg
