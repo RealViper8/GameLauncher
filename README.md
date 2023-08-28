@@ -1,4 +1,9 @@
-# GameLauncher
+<p>
+  
+</p>
+
+GameLauncher
+=======
 You can use this App to launch Steam games or custom games !
 Im planning to make every week new updates on this app
 # Functions
