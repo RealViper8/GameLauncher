@@ -16,7 +16,7 @@ It auto detects installed steam games
 To Compile the python file to exe
 
 * Install pyinstaller module
-* type in cmd pyinstaller --onefile <filename>.py
+* type in cmd pyinstaller --onefile < filename >.py
 * Wait until its done
 * Open Output folder and there should be your .exe File
 
