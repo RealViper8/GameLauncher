@@ -38,5 +38,5 @@ These things
 
 ### Information
 This was created by using python
-And the modules customtkinter, configparser, winreg
+And the modules customtkinter, configparser, winreg, wget, pystyle
 If your gonna take the code or sell it please give Credit !
