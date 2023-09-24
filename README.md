@@ -1,6 +1,14 @@
+
+## V 0.1
 <p>
   <img width="673" alt="Screenshot 2023-08-30 202351" src="https://github.com/RealViper8/GameLauncher/assets/101727162/baba1dde-1050-4837-8d71-c9cd6eb24603">
 </p>
+
+## V 1
+<p>
+  <img width="674" alt="Preview" src="https://github.com/RealViper8/GameLauncher/assets/101727162/52e822cd-9549-4d76-9ed6-720898d51a73">
+</p>
+
 
 
 GameLauncher
