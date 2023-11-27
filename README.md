@@ -22,9 +22,9 @@ It auto detects installed steam games
 You can add custom games to it 
 
 ## Compiling
-To Compile the python file to exe
+To Compile the python file to executable
 
-* Install pyinstaller module
+* Install pyinstaller module `pip install pyinstaller` or `pip3 install pyinstaller`
 * type in cmd pyinstaller --onefile < filename >.py
 * Wait until its done
 * Open Output folder and there should be your .exe File
