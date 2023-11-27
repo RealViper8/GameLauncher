@@ -25,7 +25,7 @@ You can add custom games to it
 To Compile the python file to executable
 
 * Install pyinstaller module `pip install pyinstaller` or `pip3 install pyinstaller`
-* type in cmd pyinstaller --onefile < filename >.py
+* type in cmd or in terminal `pyinstaller --onefile main.py`
 * Wait until its done
 * Open Output folder and there should be your .exe File
 
