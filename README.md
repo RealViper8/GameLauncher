@@ -19,7 +19,7 @@ Im planning to make every week new updates on this app
 ## Functions
 Has a Console Mode
 It auto detects installed steam games
-You can add custom games to it 
++ You can add custom games to it 
 
 ## Compiling
 To Compile the python file to executable
@@ -28,14 +28,12 @@ To Compile the python file to executable
 * type in cmd or in terminal `pyinstaller --onefile StartLauncher.py`
 * Open Output folder and there should be your .exe File
 
-### What im gonna add in the feature
+### What im gonna add in the future
 These things
 
 * Launcher will support Epic Games Games
-* Launcher will have Gui Mode
 * Launcher will be high customizable
 
 ### Information
 This was created by using python
 And the modules customtkinter, configparser, winreg, wget, pystyle
-If your gonna take the code or sell it please give Credit !
