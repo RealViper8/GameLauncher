@@ -1,5 +1,4 @@
 customtkinter==5.2.0
 Pillow==10.2.0
-Pillow==10.2.0
 pystyle==2.9
 wget==3.2
