@@ -161,4 +161,4 @@ if __name__ == "__main__":
                 f.close()
                 main(GuiMode=False)
         else:
-            print("Something unexpected happend make sure to use windows or try a package if you dont have windows !")
+            print("Something unexpected happend !")
