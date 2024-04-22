@@ -32,7 +32,7 @@ To Compile the python file to executable
 These things
 
 * Launcher will support Epic Games Games
-* Launcher will be high customizable
+* ~~Launcher will be high customizable~~ [Done]
 
 ### Information
 This was created by using python
